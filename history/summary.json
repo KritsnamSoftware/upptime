@@ -24,18 +24,19 @@
     "url": "https://api.dashboard-staging.kritsnam.in/health",
     "icon": "https://favicons.githubusercontent.com/api.dashboard-staging.kritsnam.in",
     "slug": "dashboard-staging-kritsnam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1039,
-    "timeDay": 1018,
-    "timeWeek": 1003,
-    "timeMonth": 1026,
-    "timeYear": 1039,
+    "time": 1037,
+    "timeDay": 1002,
+    "timeWeek": 1001,
+    "timeMonth": 1025,
+    "timeYear": 1037,
     "dailyMinutesDown": {
+      "2021-10-26": 0,
       "2021-09-22": 19
     }
   }
