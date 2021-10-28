@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1027,
-    "timeDay": 998,
-    "timeWeek": 1064,
-    "timeMonth": 1031,
-    "timeYear": 1027,
+    "time": 1024,
+    "timeDay": 944,
+    "timeWeek": 1056,
+    "timeMonth": 1023,
+    "timeYear": 1024,
     "dailyMinutesDown": {
       "2021-09-22": 19
     }
@@ -26,15 +26,15 @@
     "slug": "dashboard-staging-kritsnam",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "97.02%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
-    "time": 1034,
-    "timeDay": 978,
-    "timeWeek": 1001,
-    "timeMonth": 1024,
-    "timeYear": 1034,
+    "time": 1032,
+    "timeDay": 952,
+    "timeWeek": 993,
+    "timeMonth": 1022,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2021-10-26": 43,
       "2021-09-22": 19
