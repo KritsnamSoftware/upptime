@@ -4,10 +4,10 @@
     "url": "https://api.dashboard.kritsnam.in/health",
     "icon": "https://favicons.githubusercontent.com/api.dashboard.kritsnam.in",
     "slug": "dashboard-kritsnam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1034,
@@ -16,6 +16,7 @@
     "timeMonth": 1131,
     "timeYear": 1034,
     "dailyMinutesDown": {
+      "2022-06-26": 0,
       "2022-06-25": 27
     }
   },
