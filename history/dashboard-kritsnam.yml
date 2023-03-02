@@ -1,7 +1,7 @@
 url: https://api.dashboard.kritsnam.in/health
-status: up
-code: 200
-responseTime: 1223
-lastUpdated: 2023-03-01T23:07:03.957Z
+status: down
+code: 502
+responseTime: 988
+lastUpdated: 2023-03-02T04:50:56.645Z
 startTime: Wed Sep 22 2021 10:50:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
